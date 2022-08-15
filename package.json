@@ -1,0 +1,12 @@
+{
+  "name": "sample-basic-reagent",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "server": "shadow-cljs server",
+    "watch": "shadow-cljs watch app"
+  },
+  "devDependencies": {
+    "shadow-cljs": "2.19.8"
+  }
+}
